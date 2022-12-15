@@ -1,0 +1,18 @@
+aside { 
+    background:lightgreen;
+    width:20%;
+    height:400px;
+    float:left;
+} 
+main {
+    background:peachpuff; 
+    width:80%;
+    height:400px; 
+    float:right;
+} 
+footer {
+    background:lightgrey; 
+    width:100%;
+    height:100px;
+    clear:both;
+}
